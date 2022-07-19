@@ -4,3 +4,5 @@ git add 添加暂存
 git commit -m 名字  本地暂存
 三连
 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
+git pull  仓库地址 分支    拉取
+git add .   暂存所有
